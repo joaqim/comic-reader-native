@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Comic Reader",
+    "slug": "comicReader",
+    "privacy": "public",
+    "sdkVersion": "34.0.3",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.joaqim.comicReader"
+    },
+    "androidStatusBar": {
+	    "barStyle": "dark-content"
+    },
+    "ios": {
+	    "bundleIdentifier": "com.joaqim.comicReader",
+	    "supportsTablet": true
+    }
+  }
+}
