@@ -1,0 +1,4 @@
+#Sun Aug 18 03:46:16 CEST 2019
+base.0=/home/jq/projects/comic-reader-native-no-expo/android/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
